@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Amazon_ShoppingCart_Clone/static/css/main.054f1816.chunk.css",
+    "main.js": "/Amazon_ShoppingCart_Clone/static/js/main.3fec4652.chunk.js",
+    "main.js.map": "/Amazon_ShoppingCart_Clone/static/js/main.3fec4652.chunk.js.map",
+    "runtime-main.js": "/Amazon_ShoppingCart_Clone/static/js/runtime-main.d90f6cc8.js",
+    "runtime-main.js.map": "/Amazon_ShoppingCart_Clone/static/js/runtime-main.d90f6cc8.js.map",
+    "static/js/2.1baef03c.chunk.js": "/Amazon_ShoppingCart_Clone/static/js/2.1baef03c.chunk.js",
+    "static/js/2.1baef03c.chunk.js.map": "/Amazon_ShoppingCart_Clone/static/js/2.1baef03c.chunk.js.map",
+    "index.html": "/Amazon_ShoppingCart_Clone/index.html",
+    "static/css/main.054f1816.chunk.css.map": "/Amazon_ShoppingCart_Clone/static/css/main.054f1816.chunk.css.map",
+    "static/js/2.1baef03c.chunk.js.LICENSE.txt": "/Amazon_ShoppingCart_Clone/static/js/2.1baef03c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d90f6cc8.js",
+    "static/js/2.1baef03c.chunk.js",
+    "static/css/main.054f1816.chunk.css",
+    "static/js/main.3fec4652.chunk.js"
+  ]
+}
